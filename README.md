@@ -9,7 +9,7 @@ Jump to section:
 
 ## Search-based Planners (A* and variants) 
 **Goal:** Implement A* and its variants to enable a robot (blue) to plan a path to catch a moving target (red) <br />
-**Details:** Code implemenation can be found in '_search-based_planners_' folder above.
+**Details:** Code implemenation can be found in ['_search-based_planners/planning.cpp_'](search-based_planners/planning.cpp).
 Map | Map
 :-------------------------:|:-------------------------:
 <img src="https://github.com/shivamtrip/robot-planning/assets/66013750/8dd9466d-fd63-4249-9767-03796f1f1731" width="400"> &nbsp; | &nbsp; <img src = "https://github.com/shivamtrip/robot-planning/assets/66013750/fae9374c-94f9-46fa-bfca-131a0175735a" width="400"> <br />
@@ -20,7 +20,7 @@ Map | Map
 
 ## Sampling-based Planners (RRT and variants)
 **Goal:** Implement RRT, RRT-Connect, RRT* and PRM to enable a 5-DOF robot to move end-effector from start position (bottom of map) to goal position (top-left corner) <br />
-**Details:** Code implemenation can be found in '_sampling-based_planners_' folder above.
+**Details:** Code implemenation can be found in ['_sampling-based_planners/planning.cpp_'](sampling-based_planners/planning.cpp) folder above.
 Planner | Number of Steps in Plan | Video
 :-------------------------:|:-------------------------:|:-------------------------:
 RRT | 11 steps | <img src="https://github.com/shivamtrip/robot-planning/assets/66013750/268e979e-ade1-47b5-8251-2da6f70fc1fd" width="400"> &nbsp;
