@@ -9,7 +9,7 @@ Jump to section:
 
 ## Search-based Planners (A* and variants) 
 **Goal:** Implement A* and its variants to enable a robot (blue) to plan a path to catch a moving target (red) <br />
-**Details:** Code implemenation can be found in ['_search-based_planners/planning.cpp_'](search-based_planners/planning.cpp).
+**Details:** Code implemenation can be found in ['_search-based_planners/planning.cpp_'](search-based_planners/planner.cpp).
 Map | Map
 :-------------------------:|:-------------------------:
 <img src="https://github.com/shivamtrip/robot-planning/assets/66013750/8dd9466d-fd63-4249-9767-03796f1f1731" width="400"> &nbsp; | &nbsp; <img src = "https://github.com/shivamtrip/robot-planning/assets/66013750/fae9374c-94f9-46fa-bfca-131a0175735a" width="400"> <br />
