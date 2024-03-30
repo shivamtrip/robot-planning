@@ -1,5 +1,11 @@
+## Introduction
+This repository includes my implementations of search-based and sampling-based planning algorithms. These were done as part of coursework in the graduate course: 16782 - Planning and Decision-Making in Robotics at CMU Robotics (Fall 2023). 
 
+Jump to section: 
+- [Search-based Planners (A* and variants)](https://github.com/shivamtrip/robot-planning/edit/main/README.md#search-based-planners-a-and-variants)
+- [Sampling-based Planners (RRT and variants)](https://github.com/shivamtrip/robot-planning/edit/main/README.md#sampling-based-planners-rrt-and-variants)
 
+<br />
 
 ## Search-based Planners (A* and variants) 
 **Goal:** Implement A* and its variants to enable a robot (blue) to plan a path to catch a moving target (red) <br />
