@@ -20,7 +20,7 @@ Map | Map
 
 ## Sampling-based Planners (RRT and variants)
 **Goal:** Implement RRT, RRT-Connect, RRT* and PRM to enable a 5-DOF robot to move end-effector from start position (bottom of map) to goal position (top-left corner) <br />
-**Details:** Code implemenation can be found in ['_sampling-based_planners/planning.cpp_'](sampling-based_planners/planning.cpp) folder above.
+**Details:** Code implemenation can be found in ['_sampling-based_planners/planning.cpp_'](sampling-based_planners/planner.cpp) folder above.
 Planner | Number of Steps in Plan | Video
 :-------------------------:|:-------------------------:|:-------------------------:
 RRT | 11 steps | <img src="https://github.com/shivamtrip/robot-planning/assets/66013750/268e979e-ade1-47b5-8251-2da6f70fc1fd" width="400"> &nbsp;
